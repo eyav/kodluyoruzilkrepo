@@ -5,6 +5,7 @@ Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-end Eğitiminde ilk repo, İçeri
 # Installation
 Öncelikle projeyi clonelayın (buraya sizin reponuzdan aldığınız link gelecek)
 > git clone https://github.com/eyav/kodluyoruzilkrepo
+
 > https://app.patika.dev/eyav
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
